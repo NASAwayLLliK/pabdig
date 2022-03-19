@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background-color: #363636;
+}
+
+h1 {
+    text-align: center;
+    background-color: #ffff00;
+    color: #ffff00;
+}
+
+h2 {
+    color: #86851b;
+}
+
+
+.gallery{
+    background-color: #363636;
+}
+
+ul {
+    font-size: 20px;
+    color: #ffff00;
+}
+
+footer {
+    background-color: #200772;
+    padding: 10px;
+}
+
+footer img {
+    width: 60px;
+}
+
+p {
+    font-size: 20px;
+    color: ;
+}
+
+
+.tarelka {
+    height: 142px;
+    width: 300px;
+}
+
+.tarelk {
+    height: 142px;
+    width: 270px;
+} 
